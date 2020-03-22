@@ -1,5 +1,5 @@
 1. What do you know about Angular ? <br>
-POC proyek apa gtu, tp gagal POC nya, a.k.a gk dpt tu proyek
+POC proyek apa gtu, tp gagal POC nya, a.k.a gk dpt tu proyek :D, yah SPA fullstack lah gampangnya
 1. How to define data in Angular ? <br>
 data? di .ts nya bagian export class namaclass, kasih aja nama variabel = xxx;
 1. In Angular What lifecycle you can run after instance created ? <br>
