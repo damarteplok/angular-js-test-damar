@@ -13,7 +13,7 @@ function reverseString(str) {
     
     //Step 4. Return the reversed string
     
-    return str + joinArray; // "olleh"
+    return str + joinArray; // "hello olleh"
 }
  
 reverseString("hello");
