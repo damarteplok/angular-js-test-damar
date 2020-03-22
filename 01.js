@@ -14,5 +14,5 @@ function asd(a) {
         str = 'e'
     }
 
-    console.log(str)
+    return str
 }
